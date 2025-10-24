@@ -4,3 +4,5 @@ librosa
 moviepy
 matplotlib
 numpy
+soundfile
+
